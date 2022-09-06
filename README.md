@@ -1,5 +1,7 @@
 # homebrew-riff
 
+To install [Riff] on macOS using [Homebrew]:
+
 ```shell
 brew install DeterminateSystems/riff/riff
 ```
@@ -17,4 +19,7 @@ To update the `riff` formula for new versions of the tool:
   installable.
 
 [cargo]: https://doc.rust-lang.org/cargo
+[homebrew]: https://brew.sh
 [nix]: https://nixos.org
+[riff]: https://github.com/DeterminateSystems/riff
+
