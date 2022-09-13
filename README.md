@@ -12,7 +12,7 @@ brew install DeterminateSystems/riff/riff
 
 To update the `riff` formula for new versions of the tool:
 
-1. Update the `version` and `url` fields to reflect the new version.
+1. Update the `version` field to reflect the new version.
 2. Run `brew install ./Formula/riff.rb`.
 3. Update the `sha256` value to match the value from the error output.
 4. Run `brew test ./Formula/riff.rb` to verify that the new version is properly
