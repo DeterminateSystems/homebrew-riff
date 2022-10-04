@@ -22,4 +22,3 @@ To update the `riff` formula for new versions of the tool:
 [homebrew]: https://brew.sh
 [nix]: https://nixos.org
 [riff]: https://github.com/DeterminateSystems/riff
-
