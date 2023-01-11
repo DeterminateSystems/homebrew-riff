@@ -1,10 +1,10 @@
 class Riff < Formula
   desc "A tool that automatically provides external dependencies for software projects"
   homepage "https://github.com/DeterminateSystems/riff"
-  version "1.0.2"
+  version "1.0.3"
   head "https://github.com/DeterminateSystems/riff.git", branch: "main"
   url "https://github.com/DeterminateSystems/riff/releases/download/v#{version}/riff-x86_64-darwin"
-  sha256 "fd60f7ba00c7c9a302f2941d6c95c3ee815f6e4552c5ca695ed88466e19a3cce"
+  sha256 "83cc04e1e0f6f35b85efa79235b3fda2317243080bf0a3bfc5ea664a27d8b4c1"
   license "MPL-2.0"
 
   def install
