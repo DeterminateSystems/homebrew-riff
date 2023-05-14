@@ -13,7 +13,7 @@ class Riff < Formula
     end
     on_linux do
       url "https://github.com/DeterminateSystems/riff/releases/download/v#{version}/riff-aarch64-linux"
-      sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      sha256 "bcd674de2dbfec5b796e303fc444605c31bfc62649664462bff157b3906135bd"
     end
   end
   on_intel do
@@ -23,7 +23,7 @@ class Riff < Formula
     end
     on_linux do
       url "https://github.com/DeterminateSystems/riff/releases/download/v#{version}/riff-x86_64-linux"
-      sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b85"
+      sha256 "a7345cf402587bf8fda99ab507cdba1ead8fc778e6cdc6b434f1dbbc827a173b"
     end
   end
 
